@@ -1,12 +1,6 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
-.angular
-tsconfig.spec.json
-tsconfig.json
-tsconfig.app.json
-package.lock.json
-angular-json
-.editorconfig
+./.angular 
 # Compiled output
 /dist
 /tmp
